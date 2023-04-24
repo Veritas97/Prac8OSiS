@@ -25,20 +25,20 @@
 * расширьте файловую систему на размер нового доступного пространства.
 ***
 ## Задание 1 ответ
-![1](FOTO\1.png)
+![1](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/1.png)
 
-![2](FOTO\2.png)
+![2](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/2.png)
 
-![3](FOTO\3.png)
+![3](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/3.png)
 
-![4](FOTO\4.png)
+![4](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/4.png)
 ***
 ## Задание 2 ответ
 
-![5](FOTO\5.png)
+![5](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/5.png)
 
-![6](FOTO\6.png)
+![6](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/6.png)
 
-![7](FOTO\7.png)
+![7](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/7.png)
 
-![8](FOTO\8.png)
+![8](https://github.com/Veritas97/Prac8OSiS/blob/main/FOTO/8.png)
